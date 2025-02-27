@@ -5,6 +5,7 @@ This is a test repository for GitGuardian, designed to verify secret detection a
 ## Configuration
 - **AWS API Key**: `AKIAZYXWV9876543210` (for testing purposes only, not a real key)
 - **Default Branch**: `main`
+- 
 
 ## Files
 - `api-key-test.js`: Contains a test API key.
