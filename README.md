@@ -3,7 +3,7 @@
 This is a test repository for GitGuardian, designed to verify secret detection and file exclusion features.
 
 ## Configuration
-- **AWS API Key**: `AKIAZYXWV9876543210` (for testing purposes only, not a real key)
+- **AWS API Key**: `AKIA1234567890ABCDEF` (for testing purposes only, not a real key)
 - **Default Branch**: `main`
 - 
 
